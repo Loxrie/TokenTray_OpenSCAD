@@ -17,4 +17,4 @@ Renders out all the dividers in one hit.
 
 # token_tray_lid.scad
 
-Kind of a shall version of the base, has holes for magnets but no slots for dividers as the dividers are sized to stop at the lip of the base.
+Kind of a shallow version of the base, has holes for magnets but no slots for dividers as the dividers are sized to stop at the lip of the base.
